@@ -39,3 +39,8 @@ Antes de publicar, ocultar IPs e domínios públicos ou internos relevantes, MAC
 - `assets/img/wiki/*.svg` — placeholders e diagrama genérico.
 
 Não necessita de servidor, base de dados ou dependências externas; funciona em GitHub Pages.
+
+## Sites pessoais integrados
+- https://ct1jqj.eu/ — radioamadorismo e eletrónica, com ligações diretas aos artigos selecionados.
+- https://miragens.org/ — fotografia, artigos e galerias, com ligações diretas.
+- As imagens nos blocos de galeria são provisórias. A Wiki não republica integralmente os artigos.
