@@ -11,6 +11,13 @@ Este pacote contém uma cópia do CV atualizado (sem a experiência de formador 
 
 > Se o GitHub Pages estiver configurado para publicar a partir de `/docs` em vez da raiz, colocar estes ficheiros na pasta de publicação configurada.
 
+## Atualizações desta versão
+
+- Mapa de rede atualizado: `assets/img/wiki/mapa-rede-final.png`, utilizado em Home Lab e Redes e VLANs.
+- Página Proxmox com explicação das vantagens de testar sistemas em máquinas virtuais.
+- Capturas reais anteriores do Home Assistant, Proxmox, Homarr e backups mantidas.
+- Link Wiki abre no mesmo separador.
+
 ## Adicionar capturas reais
 
 Os ficheiros SVG em `assets/img/wiki/` são **marcadores de posição**, não capturas reais.
