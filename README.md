@@ -74,3 +74,7 @@ Inclui descrição editorial dos serviços, quatro capturas com dados identifica
 - Nova fotografia da instalação real em `wiki/homelab.html`.
 - Fotografia do Orange Pi Zero e contexto do projeto de monitorização UPS em `wiki/monitorizacao.html`.
 - Imagens fotográficas sem metadados EXIF.
+
+### Capturas do laboratório Windows NT
+
+A página `wiki/proxmox.html` inclui agora imagens reais do Windows NT 4.0 Workstation e Windows NT Server Enterprise, com uma explicação sobre a instalação de drivers através de imagem de disquete virtual no Proxmox.
