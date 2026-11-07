@@ -59,3 +59,18 @@ A Wiki utiliza uma identidade própria “Atlas Técnico”, em azul-petróleo, 
 
 ## Atualização visual
 O CV utiliza grafite, violeta e coral. A Wiki mantém o estilo Atlas Técnico que funciona offline. As ligações ao CSS da Wiki têm um parâmetro de versão para evitar cache antiga no navegador. Os mapas aparecem numa moldura mais compacta, com opção para consultar a imagem original.
+
+
+### Página Banana Pi M5
+Inclui descrição editorial dos serviços, quatro capturas com dados identificadores ocultados e ligações de navegação. Nenhum script ou credencial foi publicado.
+
+
+### Página Banana Pi M5
+Inclui descrição editorial dos serviços, quatro capturas com dados identificadores ocultados e ligações de navegação. Nenhum script ou credencial foi publicado.
+
+
+## Atualização: topologia e fotografias reais (07/11/2026)
+- Substituído `assets/img/wiki/mapa-rede-final.png` pelo mapa aprovado: WAN1 porta 0, WAN2 porta 1, LAN porta 2 da firewall para porta 1 do switch principal; SFP 9 ↔ SFP 9; VLAN 30 nos acessos 1–3 do secundário e VLAN 40 nos acessos 5–8, incluindo monitorização da UPS.
+- Nova fotografia da instalação real em `wiki/homelab.html`.
+- Fotografia do Orange Pi Zero e contexto do projeto de monitorização UPS em `wiki/monitorizacao.html`.
+- Imagens fotográficas sem metadados EXIF.

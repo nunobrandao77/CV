@@ -81,3 +81,65 @@ footer{background:#0c2733;color:#b9d6df}
 .figure.map-compact .map-open{display:block;cursor:zoom-in}
 .figure.map-compact figcaption a{display:inline-block;margin-left:.4rem;font-weight:650}
 @media(max-width:700px){.figure.map-compact img{max-height:none}}
+
+/* Banana Pi M5 — narrativa técnica */
+.banana-kicker{font-size:.75rem;font-weight:800;letter-spacing:.15em;color:#0c8188;margin-bottom:.65rem}
+.banana-intro h2{font-size:clamp(1.6rem,3vw,2.25rem);letter-spacing:-.035em;margin:.25rem 0 .85rem;color:#12333e}
+.banana-lead{font-size:1.13rem;line-height:1.76;color:#244c56;font-weight:540}
+.banana-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.65rem;margin:1.5rem 0}
+.banana-stats>div{background:#e3f2f2;border:1px solid #c3e0e0;border-radius:10px;padding:1rem .75rem;min-width:0}
+.banana-stats strong{display:block;font-size:1.42rem;color:#0c6570;line-height:1.2;margin-bottom:.2rem}
+.banana-stats span{display:block;font-size:.78rem;color:#476772}
+.banana-shot{margin:1.25rem 0 1.55rem}
+.banana-shot img{display:block;width:100%;height:auto;max-height:590px;object-fit:contain;background:#151a20}
+.banana-shot-narrow img{max-height:365px}
+.banana-services{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.75rem;margin:1.35rem 0}
+.banana-services article{border:1px solid #d5e5e7;background:#f8fbfc;padding:1.05rem;border-radius:11px}
+.banana-services article:last-child{grid-column:1/-1}
+.banana-services h3{font-size:1.1rem;margin:.25rem 0 .4rem;color:#173844}
+.banana-services p{margin:0;font-size:.93rem;line-height:1.6}
+.banana-no{font-size:.72rem;font-weight:800;letter-spacing:.1em;color:#128d92}
+.banana-aside{background:#eef6f5;padding:1rem 1.15rem;border-left:3px solid #1c9a9f;border-radius:3px 8px 8px 3px;font-size:.95rem}
+.banana-flow{display:flex;gap:.45rem;align-items:center;justify-content:center;flex-wrap:wrap;margin:1.3rem 0;padding:1.15rem;background:#102e3a;border-radius:12px;color:#effcfc}
+.banana-flow span{padding:.65rem .78rem;background:#1b4d5b;border:1px solid #41989d;border-radius:8px;font-size:.83rem;text-align:center;font-weight:700}
+.banana-flow b{color:#62d0ca}
+.banana-conclusion{margin:1.7rem 0 0;padding:1.5rem;background:#103542;color:#d8eeee;border-radius:11px}
+.banana-conclusion strong{color:#fff;font-size:1.13rem}
+.banana-conclusion p{color:#d8eeee}
+.banana-conclusion a{color:#82e5e0;font-weight:700}
+@media(max-width:700px){.banana-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.banana-services{grid-template-columns:1fr}.banana-services article:last-child{grid-column:auto}.banana-flow{justify-content:flex-start}}
+
+/* Banana Pi M5 — narrativa técnica */
+.banana-kicker{font-size:.75rem;font-weight:800;letter-spacing:.15em;color:#0c8188;margin-bottom:.65rem}
+.banana-intro h2{font-size:clamp(1.6rem,3vw,2.25rem);letter-spacing:-.035em;margin:.25rem 0 .85rem;color:#12333e}
+.banana-lead{font-size:1.13rem;line-height:1.76;color:#244c56;font-weight:540}
+.banana-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.65rem;margin:1.5rem 0}
+.banana-stats>div{background:#e3f2f2;border:1px solid #c3e0e0;border-radius:10px;padding:1rem .75rem;min-width:0}
+.banana-stats strong{display:block;font-size:1.42rem;color:#0c6570;line-height:1.2;margin-bottom:.2rem}
+.banana-stats span{display:block;font-size:.78rem;color:#476772}
+.banana-shot{margin:1.25rem 0 1.55rem}
+.banana-shot img{display:block;width:100%;height:auto;max-height:590px;object-fit:contain;background:#151a20}
+.banana-shot-narrow img{max-height:365px}
+.banana-services{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.75rem;margin:1.35rem 0}
+.banana-services article{border:1px solid #d5e5e7;background:#f8fbfc;padding:1.05rem;border-radius:11px}
+.banana-services article:last-child{grid-column:1/-1}
+.banana-services h3{font-size:1.1rem;margin:.25rem 0 .4rem;color:#173844}
+.banana-services p{margin:0;font-size:.93rem;line-height:1.6}
+.banana-no{font-size:.72rem;font-weight:800;letter-spacing:.1em;color:#128d92}
+.banana-aside{background:#eef6f5;padding:1rem 1.15rem;border-left:3px solid #1c9a9f;border-radius:3px 8px 8px 3px;font-size:.95rem}
+.banana-flow{display:flex;gap:.45rem;align-items:center;justify-content:center;flex-wrap:wrap;margin:1.3rem 0;padding:1.15rem;background:#102e3a;border-radius:12px;color:#effcfc}
+.banana-flow span{padding:.65rem .78rem;background:#1b4d5b;border:1px solid #41989d;border-radius:8px;font-size:.83rem;text-align:center;font-weight:700}
+.banana-flow b{color:#62d0ca}
+.banana-conclusion{margin:1.7rem 0 0;padding:1.5rem;background:#103542;color:#d8eeee;border-radius:11px}
+.banana-conclusion strong{color:#fff;font-size:1.13rem}
+.banana-conclusion p{color:#d8eeee}
+.banana-conclusion a{color:#82e5e0;font-weight:700}
+@media(max-width:700px){.banana-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.banana-services{grid-template-columns:1fr}.banana-services article:last-child{grid-column:auto}.banana-flow{justify-content:flex-start}}
+
+/* Real equipment photography: readable in the page; enlarges on click. */
+.figure.real-setup,.figure.orange-pi-photo{max-width:680px;margin:1.15rem auto 1.7rem;}
+.figure.real-setup img{display:block;width:100%;height:auto;max-height:480px;object-fit:contain;background:#f4f6f7;}
+.figure.orange-pi-photo{max-width:440px;}
+.figure.orange-pi-photo img{display:block;width:100%;height:auto;max-height:480px;object-fit:contain;background:#f4f6f7;}
+.photo-expand{display:block;cursor:zoom-in;}
+@media(max-width:700px){.figure.real-setup,.figure.orange-pi-photo{max-width:100%;}}
