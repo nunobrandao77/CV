@@ -51,3 +51,7 @@ Não necessita de servidor, base de dados ou dependências externas; funciona em
 - https://ct1jqj.eu/ — radioamadorismo e eletrónica, com ligações diretas aos artigos selecionados.
 - https://miragens.org/ — fotografia, artigos e galerias, com ligações diretas.
 - As imagens nos blocos de galeria são provisórias. A Wiki não republica integralmente os artigos.
+
+
+## Visual
+A Wiki utiliza uma identidade própria “Atlas Técnico”, em azul-petróleo, turquesa e cobre. O CV mantém a apresentação original.
