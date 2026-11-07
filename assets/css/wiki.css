@@ -74,3 +74,10 @@ footer{background:#0c2733;color:#b9d6df}
 @media(max-width:780px){.layout{grid-template-columns:1fr;gap:1.15rem}.sidebar{position:static;order:-1}.bar nav{overflow-x:auto;flex-wrap:nowrap}.top{padding:2.7rem 0 2.3rem}.project-feature{grid-template-columns:1fr}.cards{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){.card{transition:none}}
 @media print{.top{background:#fff;color:#000}.top h1{color:#000}.top .lead{color:#444}.project-feature{color:#000;background:#fff}}
+
+/* Mapas com dimensões moderadas nas páginas da Wiki */
+.figure.map-compact{width:min(100%,680px);max-width:680px;margin:1.15rem auto 1.5rem}
+.figure.map-compact img{width:100%;height:auto;max-height:440px;object-fit:contain;background:#102934}
+.figure.map-compact .map-open{display:block;cursor:zoom-in}
+.figure.map-compact figcaption a{display:inline-block;margin-left:.4rem;font-weight:650}
+@media(max-width:700px){.figure.map-compact img{max-height:none}}

@@ -55,3 +55,7 @@ Não necessita de servidor, base de dados ou dependências externas; funciona em
 
 ## Visual
 A Wiki utiliza uma identidade própria “Atlas Técnico”, em azul-petróleo, turquesa e cobre. O CV mantém a apresentação original.
+
+
+## Atualização visual
+O CV utiliza grafite, violeta e coral. A Wiki mantém o estilo Atlas Técnico que funciona offline. As ligações ao CSS da Wiki têm um parâmetro de versão para evitar cache antiga no navegador. Os mapas aparecem numa moldura mais compacta, com opção para consultar a imagem original.
