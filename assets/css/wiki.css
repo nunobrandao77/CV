@@ -143,3 +143,7 @@ footer{background:#0c2733;color:#b9d6df}
 .figure.orange-pi-photo img{display:block;width:100%;height:auto;max-height:480px;object-fit:contain;background:#f4f6f7;}
 .photo-expand{display:block;cursor:zoom-in;}
 @media(max-width:700px){.figure.real-setup,.figure.orange-pi-photo{max-width:100%;}}
+
+/* Laboratório Windows NT: imagens reais em destaque */
+.nt4-direct-link{margin:1.1rem 0 0}.nt4-direct-link a{display:inline-block;padding:.68rem 1rem;background:#0b5967;color:#fff;border-radius:9px;font-weight:700;text-decoration:none}.nt4-direct-link a:hover{background:#087986;color:white}
+#windows-nt4{scroll-margin-top:86px}#windows-nt4 .shot-grid{align-items:start}#windows-nt4 .figure img{width:100%;height:auto;max-height:none;object-fit:contain} .nt4-feature-card .project-card-image{object-position:center}
